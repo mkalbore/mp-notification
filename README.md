@@ -1,4 +1,4 @@
-# React + TypeScript + Vite Project
+# Notification Project - React + TypeScript + Vite Project
 
 Welcome to our React project powered by TypeScript and Vite! This setup provides a minimal yet robust starting point for building React applications with hot module replacement (HMR) and a basic ESLint configuration to keep your code clean and error-free.
 
@@ -47,8 +47,8 @@ For production applications, consider enhancing your ESLint configuration for a 
 To get started with this project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
-cd <project-name>
+git clone https://github.com/mkalbore/mp-notification.git
+cd mp-notification
 npm install
 ```
 
@@ -58,7 +58,13 @@ Run the development server:
 npm run dev
 ```
 
-Your application should now be running on [http://localhost:3000](http://localhost:3000).
+Run the tests:
+
+```bash
+npx vitest
+```
+
+Your application should now be running on [http://localhost:5173](http://localhost:5173).
 
 ## Contributing
 
