@@ -1,0 +1,142 @@
+[
+	{
+		"id": "1",
+		"message": "We have launched a new product!",
+		"timestamp": "yesterday",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "2",
+		"message": "Jan Nowak from XYZ sent you a message!",
+		"timestamp": "yesterday",
+		"isRead": true,
+		"type": "status-change"
+	},
+	{
+		"id": "3",
+		"message": "Your subscription has been updated.",
+		"timestamp": "2 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "4",
+		"message": "Reminder: Meeting at 10 AM tomorrow.",
+		"timestamp": "today",
+		"isRead": true,
+		"type": "request"
+	},
+	{
+		"id": "5",
+		"message": "New security update available.",
+		"timestamp": "2 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "6",
+		"message": "You have a new connection request from Anna Smith.",
+		"timestamp": "3 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "7",
+		"message": "Your profile picture has been updated.",
+		"timestamp": "4 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "8",
+		"message": "A new feature has been added to your dashboard.",
+		"timestamp": "5 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "9",
+		"message": "Weekly newsletter: What's new in June?",
+		"timestamp": "6 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "10",
+		"message": "Your account password was changed successfully.",
+		"timestamp": "7 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "11",
+		"message": "You have a new comment on your post.",
+		"timestamp": "8 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "12",
+		"message": "Your subscription has been renewed.",
+		"timestamp": "9 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "13",
+		"message": "New article: Best practices for coding in React.",
+		"timestamp": "10 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "14",
+		"message": "Your support ticket has been resolved.",
+		"timestamp": "11 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "15",
+		"message": "You have a new follower.",
+		"timestamp": "12 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "16",
+		"message": "Your order has been shipped.",
+		"timestamp": "13 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "17",
+		"message": "Reminder: Your trial period ends in 3 days.",
+		"timestamp": "14 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "18",
+		"message": "System maintenance scheduled for tonight.",
+		"timestamp": "15 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "19",
+		"message": "Your profile has been viewed 10 times today.",
+		"timestamp": "16 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "20",
+		"message": "New message from customer support.",
+		"timestamp": "17 days ago",
+		"isRead": false,
+		"type": "request"
+	}
+]

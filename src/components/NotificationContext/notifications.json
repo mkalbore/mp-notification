@@ -1,0 +1,135 @@
+[
+	{
+		"id": "1",
+		"message": "We have launched a new product!",
+		"timestamp": "yesterday",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "2",
+		"message": "Jan Nowak from XYZ sent you a message!",
+		"timestamp": "yesterday",
+		"isRead": true,
+		"type": "status-change"
+	},
+	{
+		"id": "3",
+		"message": "Your subscription has been updated.",
+		"timestamp": "2 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "4",
+		"message": "Reminder: Meeting at 10 AM tomorrow.",
+		"timestamp": "today",
+		"isRead": true,
+		"type": "request"
+	},
+	{
+		"id": "5",
+		"message": "Your subscription has been updated.",
+		"timestamp": "3 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "6",
+		"message": "Your subscription has been updated.",
+		"timestamp": "4 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "7",
+		"message": "Your subscription has been updated.",
+		"timestamp": "5 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "8",
+		"message": "Your subscription has been updated.",
+		"timestamp": "6 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "9",
+		"message": "Your subscription has been updated.",
+		"timestamp": "7 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "10",
+		"message": "Your subscription has been updated.",
+		"timestamp": "8 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "11",
+		"message": "Your subscription has been updated.",
+		"timestamp": "9 days ago",
+		"isRead": false,
+		"type": "new-feature"
+	},
+	{
+		"id": "12",
+		"message": "Your subscription has been updated.",
+		"timestamp": "10 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "13",
+		"message": "Your subscription has been updated.",
+		"timestamp": "11 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "14",
+		"message": "Your subscription has been updated.",
+		"timestamp": "12 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "15",
+		"message": "Your subscription has been updated.",
+		"timestamp": "13 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "16",
+		"message": "Your subscription has been updated.",
+		"timestamp": "14 days ago",
+		"isRead": false,
+		"type": "status-change"
+	},
+	{
+		"id": "17",
+		"message": "Your subscription has been updated.",
+		"timestamp": "15 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "18",
+		"message": "Your subscription has been updated.",
+		"timestamp": "16 days ago",
+		"isRead": false,
+		"type": "request"
+	},
+	{
+		"id": "19",
+		"message": "Your subscription has been updated.",
+		"timestamp": "17 days ago",
+		"isRead": false,
+		"type": "request"
+	}
+]
